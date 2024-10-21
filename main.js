@@ -1,4 +1,1 @@
-import { GameSetup } from './gameSetup.js';
-
-// Initialize the game
-GameSetup.init();
+Can Someone Explain Nymn to Me ?
